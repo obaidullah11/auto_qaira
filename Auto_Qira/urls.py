@@ -14,10 +14,6 @@ urlpatterns = [
     path('api/', include('users.urls')),
     # path('api/', include('payments.urls')),
     path('admin/', admin.site.urls),
-    # path('api/', include('adminpanel.urls')),
-    
-    
-    
-   
-   
+    path('api/', include('car_onboarding.urls')),
+    path('api/', include('reels_management.urls')),
 ]+ static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)

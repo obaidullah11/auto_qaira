@@ -146,3 +146,159 @@ INFO 2025-05-22 03:30:30,516 basehttp 15220 1876 "POST /api/verify-otp/ HTTP/1.1
 INFO 2025-05-22 03:32:16,492 autoreload 15220 16604 C:\Users\hp\Desktop\car rentel app\manage.py changed, reloading.
 INFO 2025-05-22 03:33:08,062 autoreload 9184 16476 Watching for file changes with StatReloader
 INFO 2025-05-22 03:33:32,985 autoreload 20772 9104 Watching for file changes with StatReloader
+INFO 2025-05-27 00:13:43,308 autoreload 16072 21544 Watching for file changes with StatReloader
+INFO 2025-05-27 00:13:46,461 basehttp 16072 18060 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:13:46,502 basehttp 16072 18060 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,526 basehttp 16072 15904 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,526 basehttp 16072 13544 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,526 basehttp 16072 1356 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,527 basehttp 16072 18060 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,527 basehttp 16072 4040 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,528 basehttp 16072 2204 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+INFO 2025-05-27 00:13:46,767 basehttp 16072 2204 "GET /?format=openapi HTTP/1.1" 200 12642
+INFO 2025-05-27 00:17:11,415 autoreload 22192 24488 Watching for file changes with StatReloader
+INFO 2025-05-27 00:20:36,717 autoreload 22192 24488 C:\Users\hp\Desktop\car rentel app\car_onboarding\models.py changed, reloading.
+INFO 2025-05-27 00:20:37,748 autoreload 13732 22436 Watching for file changes with StatReloader
+INFO 2025-05-27 00:23:08,161 autoreload 13732 22436 C:\Users\hp\Desktop\car rentel app\car_onboarding\serializers.py changed, reloading.
+INFO 2025-05-27 00:23:09,041 autoreload 24560 22716 Watching for file changes with StatReloader
+INFO 2025-05-27 00:23:49,944 autoreload 816 20780 Watching for file changes with StatReloader
+INFO 2025-05-27 00:23:58,239 basehttp 816 10784 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:23:58,394 basehttp 816 10784 "GET /?format=openapi HTTP/1.1" 200 13709
+INFO 2025-05-27 00:25:43,172 autoreload 816 20780 C:\Users\hp\Desktop\car rentel app\car_onboarding\serializers.py changed, reloading.
+INFO 2025-05-27 00:25:43,921 autoreload 8964 23664 Watching for file changes with StatReloader
+INFO 2025-05-27 00:26:03,307 autoreload 8964 23664 C:\Users\hp\Desktop\car rentel app\car_onboarding\serializers.py changed, reloading.
+INFO 2025-05-27 00:26:04,027 autoreload 26388 11708 Watching for file changes with StatReloader
+INFO 2025-05-27 00:26:11,321 basehttp 26388 15540 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:26:11,472 basehttp 26388 15540 "GET /?format=openapi HTTP/1.1" 200 13584
+INFO 2025-05-27 00:41:45,200 autoreload 26388 11708 C:\Users\hp\Desktop\car rentel app\car_onboarding\models.py changed, reloading.
+INFO 2025-05-27 00:41:45,938 autoreload 1816 20476 Watching for file changes with StatReloader
+INFO 2025-05-27 00:41:52,102 autoreload 1816 20476 C:\Users\hp\Desktop\car rentel app\car_onboarding\models.py changed, reloading.
+INFO 2025-05-27 00:41:52,813 autoreload 24612 18532 Watching for file changes with StatReloader
+INFO 2025-05-27 00:42:27,398 autoreload 24612 18532 C:\Users\hp\Desktop\car rentel app\car_onboarding\serializers.py changed, reloading.
+INFO 2025-05-27 00:42:28,122 autoreload 24796 1056 Watching for file changes with StatReloader
+INFO 2025-05-27 00:43:43,573 autoreload 24796 1056 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 00:43:44,335 autoreload 16888 18716 Watching for file changes with StatReloader
+INFO 2025-05-27 00:43:50,022 basehttp 16888 21808 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:43:50,615 basehttp 16888 21808 "GET /?format=openapi HTTP/1.1" 200 13584
+INFO 2025-05-27 00:44:23,543 autoreload 16888 18716 C:\Users\hp\Desktop\car rentel app\car_onboarding\urls.py changed, reloading.
+INFO 2025-05-27 00:44:24,237 autoreload 1904 12944 Watching for file changes with StatReloader
+INFO 2025-05-27 00:44:31,975 basehttp 1904 13392 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:44:32,109 basehttp 1904 13392 "GET /?format=openapi HTTP/1.1" 200 14434
+INFO 2025-05-27 00:45:43,880 autoreload 1904 12944 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 00:45:44,640 autoreload 11432 21752 Watching for file changes with StatReloader
+INFO 2025-05-27 00:45:49,216 basehttp 11432 25556 "GET / HTTP/1.1" 200 1633
+ERROR 2025-05-27 00:45:49,503 basehttp 11432 25556 "GET /?format=openapi HTTP/1.1" 500 59
+INFO 2025-05-27 00:46:40,696 autoreload 11432 21752 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 00:46:41,472 autoreload 13608 25756 Watching for file changes with StatReloader
+INFO 2025-05-27 00:46:47,437 basehttp 13608 14180 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:46:47,581 basehttp 13608 14180 "GET /?format=openapi HTTP/1.1" 200 14179
+ERROR 2025-05-27 00:47:06,702 basehttp 13608 14180 "POST /api/upload/ HTTP/1.1" 500 59
+INFO 2025-05-27 00:47:28,365 autoreload 25112 8888 Watching for file changes with StatReloader
+INFO 2025-05-27 00:47:31,354 basehttp 25112 20476 "POST /api/upload/ HTTP/1.1" 201 174
+INFO 2025-05-27 00:47:39,775 basehttp 25112 20476 "GET /media/uploads/Prasilarts-Claire-Monitor-04-Computer-Apple_QMwBya8.512.png HTTP/1.1" 200 55610
+WARNING 2025-05-27 00:47:39,918 log 25112 20476 Not Found: /favicon.ico
+WARNING 2025-05-27 00:47:39,918 basehttp 25112 20476 "GET /favicon.ico HTTP/1.1" 404 2843
+INFO 2025-05-27 00:48:45,472 autoreload 25112 8888 C:\Users\hp\Desktop\car rentel app\car_onboarding\models.py changed, reloading.
+INFO 2025-05-27 00:48:46,203 autoreload 12928 22148 Watching for file changes with StatReloader
+INFO 2025-05-27 00:49:07,296 autoreload 21380 20324 Watching for file changes with StatReloader
+INFO 2025-05-27 00:51:36,448 autoreload 21380 20324 C:\Users\hp\Desktop\car rentel app\car_onboarding\serializers.py changed, reloading.
+INFO 2025-05-27 00:51:37,154 autoreload 2500 26228 Watching for file changes with StatReloader
+INFO 2025-05-27 00:51:39,614 basehttp 2500 984 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:51:39,881 basehttp 2500 984 "GET /?format=openapi HTTP/1.1" 200 14210
+INFO 2025-05-27 00:53:42,618 autoreload 2500 26228 C:\Users\hp\Desktop\car rentel app\car_onboarding\serializers.py changed, reloading.
+INFO 2025-05-27 00:53:43,377 autoreload 5396 23440 Watching for file changes with StatReloader
+INFO 2025-05-27 00:54:54,461 autoreload 5396 23440 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 00:54:55,200 autoreload 4904 25356 Watching for file changes with StatReloader
+INFO 2025-05-27 00:55:06,214 basehttp 4904 2624 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 00:55:06,357 basehttp 4904 2624 "GET /?format=openapi HTTP/1.1" 200 14271
+WARNING 2025-05-27 00:55:55,733 log 4904 2624 Bad Request: /api/login/
+WARNING 2025-05-27 00:55:55,733 basehttp 4904 2624 "POST /api/login/ HTTP/1.1" 400 85
+INFO 2025-05-27 00:57:00,604 autoreload 10368 19424 Watching for file changes with StatReloader
+INFO 2025-05-27 00:57:03,909 basehttp 10368 20720 "POST /api/login/ HTTP/1.1" 200 788
+WARNING 2025-05-27 00:58:30,605 log 10368 20720 Bad Request: /api/add/
+WARNING 2025-05-27 00:58:30,606 basehttp 10368 20720 "POST /api/add/ HTTP/1.1" 400 175
+WARNING 2025-05-27 00:59:59,890 log 10368 20720 Bad Request: /api/add/
+WARNING 2025-05-27 00:59:59,890 basehttp 10368 20720 "POST /api/add/ HTTP/1.1" 400 115
+INFO 2025-05-27 01:00:29,624 autoreload 10368 19424 C:\Users\hp\Desktop\car rentel app\car_onboarding\models.py changed, reloading.
+INFO 2025-05-27 01:00:30,344 autoreload 1128 23976 Watching for file changes with StatReloader
+ERROR 2025-05-27 01:00:46,323 basehttp 1128 16092 "POST /api/add/ HTTP/1.1" 500 59
+INFO 2025-05-27 01:03:06,706 autoreload 1128 23976 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:03:07,491 autoreload 4796 15676 Watching for file changes with StatReloader
+INFO 2025-05-27 01:03:12,173 basehttp 4796 14324 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:03:12,502 basehttp 4796 14324 "GET /?format=openapi HTTP/1.1" 200 14271
+INFO 2025-05-27 01:03:16,740 basehttp 4796 14324 "POST /api/add/ HTTP/1.1" 201 1182
+INFO 2025-05-27 01:29:58,672 autoreload 4796 15676 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:29:59,947 autoreload 144 4412 Watching for file changes with StatReloader
+INFO 2025-05-27 01:30:42,052 autoreload 144 4412 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:30:43,151 autoreload 21164 19348 Watching for file changes with StatReloader
+INFO 2025-05-27 01:30:59,795 autoreload 21164 19348 C:\Users\hp\Desktop\car rentel app\car_onboarding\urls.py changed, reloading.
+INFO 2025-05-27 01:31:00,841 autoreload 11756 13048 Watching for file changes with StatReloader
+INFO 2025-05-27 01:31:23,434 basehttp 11756 6656 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:31:23,663 basehttp 11756 6656 "GET /?format=openapi HTTP/1.1" 200 15022
+INFO 2025-05-27 01:31:54,410 basehttp 11756 6656 "GET /api/api/cars/ HTTP/1.1" 200 1177
+INFO 2025-05-27 01:34:21,926 basehttp 11756 8928 "GET /api/api/my-cars/ HTTP/1.1" 200 1178
+INFO 2025-05-27 01:34:23,819 basehttp 11756 8928 "GET /api/api/my-cars/ HTTP/1.1" 200 1178
+INFO 2025-05-27 01:37:05,166 autoreload 11756 13048 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:37:06,300 autoreload 23468 12276 Watching for file changes with StatReloader
+INFO 2025-05-27 01:37:27,114 basehttp 23468 16164 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:37:27,408 basehttp 23468 16164 "GET /?format=openapi HTTP/1.1" 200 15022
+INFO 2025-05-27 01:37:39,316 autoreload 23468 12276 C:\Users\hp\Desktop\car rentel app\car_onboarding\urls.py changed, reloading.
+INFO 2025-05-27 01:37:40,466 autoreload 9752 5584 Watching for file changes with StatReloader
+INFO 2025-05-27 01:37:49,791 basehttp 9752 20084 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:37:49,954 basehttp 9752 20084 "GET /?format=openapi HTTP/1.1" 200 15951
+INFO 2025-05-27 01:41:11,153 autoreload 9752 5584 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:41:12,268 autoreload 12756 25584 Watching for file changes with StatReloader
+INFO 2025-05-27 01:41:17,840 basehttp 12756 22800 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:41:18,065 basehttp 12756 22800 "GET /?format=openapi HTTP/1.1" 200 15953
+INFO 2025-05-27 01:41:22,651 basehttp 12756 22800 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:41:22,834 basehttp 12756 22800 "GET /?format=openapi HTTP/1.1" 200 15953
+INFO 2025-05-27 01:43:17,585 autoreload 12756 25584 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:43:18,777 autoreload 1508 17488 Watching for file changes with StatReloader
+INFO 2025-05-27 01:43:50,943 autoreload 1508 17488 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:43:52,014 autoreload 20772 2148 Watching for file changes with StatReloader
+INFO 2025-05-27 01:44:02,092 autoreload 20772 2148 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:44:03,211 autoreload 12716 13080 Watching for file changes with StatReloader
+INFO 2025-05-27 01:44:17,763 autoreload 12716 13080 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:44:18,729 autoreload 744 21236 Watching for file changes with StatReloader
+INFO 2025-05-27 01:44:24,417 autoreload 744 21236 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:44:25,710 autoreload 21008 4704 Watching for file changes with StatReloader
+INFO 2025-05-27 01:44:30,587 basehttp 21008 8400 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:44:30,814 basehttp 21008 8400 "GET /?format=openapi HTTP/1.1" 200 16018
+INFO 2025-05-27 01:44:44,135 autoreload 21008 4704 C:\Users\hp\Desktop\car rentel app\car_onboarding\views.py changed, reloading.
+INFO 2025-05-27 01:44:45,204 autoreload 19584 14196 Watching for file changes with StatReloader
+INFO 2025-05-27 01:44:49,418 basehttp 19584 15320 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 01:44:49,599 basehttp 19584 15320 "GET /?format=openapi HTTP/1.1" 200 16029
+INFO 2025-05-27 02:13:52,310 autoreload 15940 24880 Watching for file changes with StatReloader
+INFO 2025-05-27 02:14:35,954 autoreload 15940 24880 C:\Users\hp\Desktop\car rentel app\reels_management\admin.py changed, reloading.
+INFO 2025-05-27 02:14:37,081 autoreload 23144 7708 Watching for file changes with StatReloader
+INFO 2025-05-27 02:14:39,386 basehttp 23144 18880 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 02:14:39,801 basehttp 23144 18880 "GET /?format=openapi HTTP/1.1" 200 17678
+WARNING 2025-05-27 02:14:53,058 log 23144 18880 Unauthorized: /api/reels/upload/
+WARNING 2025-05-27 02:14:53,059 basehttp 23144 18880 "POST /api/reels/upload/ HTTP/1.1" 401 58
+INFO 2025-05-27 02:18:42,137 autoreload 23144 7708 C:\Users\hp\Desktop\car rentel app\reels_management\serializers.py changed, reloading.
+INFO 2025-05-27 02:18:43,275 autoreload 16280 7772 Watching for file changes with StatReloader
+INFO 2025-05-27 02:18:48,148 basehttp 16280 26044 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 02:18:48,516 basehttp 16280 26044 "GET /?format=openapi HTTP/1.1" 200 17678
+INFO 2025-05-27 02:20:33,707 autoreload 16280 7772 C:\Users\hp\Desktop\car rentel app\reels_management\views.py changed, reloading.
+INFO 2025-05-27 02:20:34,775 autoreload 10836 13604 Watching for file changes with StatReloader
+INFO 2025-05-27 02:21:06,955 autoreload 10836 13604 C:\Users\hp\Desktop\car rentel app\reels_management\views.py changed, reloading.
+INFO 2025-05-27 02:21:08,112 autoreload 7748 12352 Watching for file changes with StatReloader
+INFO 2025-05-27 02:21:15,686 autoreload 7748 12352 C:\Users\hp\Desktop\car rentel app\reels_management\views.py changed, reloading.
+INFO 2025-05-27 02:21:16,606 autoreload 22712 24620 Watching for file changes with StatReloader
+INFO 2025-05-27 02:21:25,022 basehttp 22712 19604 "GET / HTTP/1.1" 200 1633
+ERROR 2025-05-27 02:21:25,281 basehttp 22712 19604 "GET /?format=openapi HTTP/1.1" 500 59
+INFO 2025-05-27 02:23:40,215 autoreload 22712 24620 C:\Users\hp\Desktop\car rentel app\reels_management\serializers.py changed, reloading.
+INFO 2025-05-27 02:23:41,257 autoreload 15684 6624 Watching for file changes with StatReloader
+INFO 2025-05-27 02:23:46,643 basehttp 15684 24652 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-27 02:23:46,869 basehttp 15684 24652 "GET /?format=openapi HTTP/1.1" 200 20594
+INFO 2025-05-27 02:25:18,120 basehttp 15684 24652 "POST /api/reels/upload/ HTTP/1.1" 201 373
+INFO 2025-05-27 02:25:48,964 basehttp 15684 24652 "GET /api/reels/user/ HTTP/1.1" 200 372
+ERROR 2025-05-27 02:26:57,314 basehttp 15684 24652 "PUT /api/reels/1/ HTTP/1.1" 500 59
+INFO 2025-05-27 02:29:42,530 autoreload 15684 6624 C:\Users\hp\Desktop\car rentel app\reels_management\views.py changed, reloading.
+INFO 2025-05-27 02:29:43,673 autoreload 1488 26328 Watching for file changes with StatReloader
+INFO 2025-05-27 02:29:49,678 basehttp 1488 10848 "PUT /api/reels/1/ HTTP/1.1" 200 378
+INFO 2025-05-27 02:30:32,555 basehttp 1488 10848 "POST /api/reels/1/like/ HTTP/1.1" 200 58
+INFO 2025-05-27 02:30:41,889 basehttp 1488 10848 "GET /api/reels/user/ HTTP/1.1" 200 386
+INFO 2025-05-27 02:31:02,793 basehttp 1488 10848 "GET /api/reels/ HTTP/1.1" 200 385
+INFO 2025-05-27 02:31:35,550 basehttp 1488 10848 "POST /api/reels/1/comment/ HTTP/1.1" 201 153
+INFO 2025-05-27 02:31:50,154 basehttp 1488 10848 "GET /api/reels/ HTTP/1.1" 200 488

@@ -49,6 +49,8 @@ INSTALLED_APPS = [
     'users',
     'sslserver',
     'drf_yasg',
+    'car_onboarding',
+    'reels_management',
     # 'payments',
     # 'adminpanel',
     
