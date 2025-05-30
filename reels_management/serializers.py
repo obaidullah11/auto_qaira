@@ -18,7 +18,7 @@ class ReelSerializer(serializers.ModelSerializer):
     class Meta:
         model = Reel
         fields = [
-            'id', 'title', 'description', 'video', 'thumbnail',
+            'id', 'title', 'description', 'video', 'hashtag',
             'user', 'car', 'likes', 'total_likes', 'comments', 'created_at'
         ]
         read_only_fields = ['id', 'user', 'likes', 'total_likes', 'comments', 'created_at']

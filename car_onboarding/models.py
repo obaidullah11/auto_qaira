@@ -20,8 +20,13 @@ class CarListing(models.Model):
         ('Convertible', 'Convertible'), ('Truck', 'Truck'), ('Van', 'Van')
     ]
     FUEL_POLICY_CHOICES = [('Full_to_Full', 'Full to Full'), ('Prepaid', 'Prepaid')]
-
+    STATUS_CHOICES = [
+        ('Available', 'Available'),
+        ('Booked', 'Booked'),
+        ('Maintenance', 'Maintenance'),
+    ]
     user = models.ForeignKey(User, on_delete=models.CASCADE)
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default='Available')
 
     # Car details
     title = models.CharField(max_length=100)

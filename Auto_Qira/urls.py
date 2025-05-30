@@ -12,7 +12,7 @@ urlpatterns = [
                                          cache_timeout=0), name='schema-swagger-ui'),
     
     path('api/', include('users.urls')),
-    # path('api/', include('payments.urls')),
+    path('api/', include('generic.urls')),
     path('admin/', admin.site.urls),
     path('api/', include('car_onboarding.urls')),
     path('api/', include('reels_management.urls')),

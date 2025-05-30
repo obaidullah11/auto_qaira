@@ -302,3 +302,160 @@ INFO 2025-05-27 02:30:41,889 basehttp 1488 10848 "GET /api/reels/user/ HTTP/1.1"
 INFO 2025-05-27 02:31:02,793 basehttp 1488 10848 "GET /api/reels/ HTTP/1.1" 200 385
 INFO 2025-05-27 02:31:35,550 basehttp 1488 10848 "POST /api/reels/1/comment/ HTTP/1.1" 201 153
 INFO 2025-05-27 02:31:50,154 basehttp 1488 10848 "GET /api/reels/ HTTP/1.1" 200 488
+INFO 2025-05-29 04:13:45,749 autoreload 4544 23276 Watching for file changes with StatReloader
+INFO 2025-05-29 04:14:34,897 basehttp 4544 24260 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-29 04:14:35,721 basehttp 4544 24260 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2025-05-29 04:14:35,727 basehttp 4544 8484 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-05-29 04:14:35,743 basehttp 4544 18348 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-05-29 04:14:35,747 basehttp 4544 2844 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2025-05-29 04:14:35,803 basehttp 4544 24260 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2025-05-29 04:14:35,852 basehttp 4544 21548 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-05-29 04:14:35,891 basehttp 4544 18348 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2025-05-29 04:14:35,912 basehttp 4544 19524 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-05-29 04:14:35,912 basehttp 4544 3984 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-05-29 04:14:36,052 basehttp 4544 10344 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+ERROR 2025-05-29 04:14:36,829 basehttp 4544 10344 "GET /?format=openapi HTTP/1.1" 500 59
+INFO 2025-05-29 04:14:42,015 basehttp 4544 19524 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-05-29 04:14:42,021 basehttp 4544 18348 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2025-05-29 04:15:13,313 autoreload 4544 23276 C:\Users\hp\Desktop\car rentel app\reels_management\serializers.py changed, reloading.
+INFO 2025-05-29 04:15:16,078 autoreload 16928 20228 Watching for file changes with StatReloader
+INFO 2025-05-29 04:15:43,338 basehttp 16928 4104 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-29 04:15:43,968 basehttp 16928 4104 "GET /?format=openapi HTTP/1.1" 200 20388
+INFO 2025-05-29 04:16:11,984 basehttp 16928 4104 "GET /api/reels/ HTTP/1.1" 200 399
+INFO 2025-05-29 04:18:32,932 autoreload 16928 20228 C:\Users\hp\Desktop\car rentel app\reels_management\models.py changed, reloading.
+INFO 2025-05-29 04:18:36,299 autoreload 17200 1212 Watching for file changes with StatReloader
+INFO 2025-05-29 04:19:41,884 autoreload 17200 1212 C:\Users\hp\Desktop\car rentel app\reels_management\models.py changed, reloading.
+INFO 2025-05-29 04:19:44,793 autoreload 17028 19132 Watching for file changes with StatReloader
+INFO 2025-05-29 04:20:02,490 autoreload 17028 19132 C:\Users\hp\Desktop\car rentel app\reels_management\serializers.py changed, reloading.
+INFO 2025-05-29 04:20:21,587 autoreload 20512 18284 Watching for file changes with StatReloader
+INFO 2025-05-29 04:20:41,343 basehttp 20512 21552 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-29 04:20:42,524 basehttp 20512 21552 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2025-05-29 04:20:42,530 basehttp 20512 21552 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2025-05-29 04:20:42,572 basehttp 20512 22056 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2025-05-29 04:20:42,578 basehttp 20512 12188 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-05-29 04:20:42,583 basehttp 20512 25176 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2025-05-29 04:20:42,584 basehttp 20512 23988 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-05-29 04:20:42,635 basehttp 20512 10104 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-05-29 04:20:43,074 basehttp 20512 10104 "GET /?format=openapi HTTP/1.1" 200 20593
+INFO 2025-05-29 04:20:43,077 basehttp 20512 23988 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+INFO 2025-05-30 01:48:23,188 autoreload 11860 12668 Watching for file changes with StatReloader
+INFO 2025-05-30 02:37:33,400 autoreload 25316 14276 Watching for file changes with StatReloader
+INFO 2025-05-30 02:38:56,152 basehttp 25316 24116 "GET /media/uploads/Prasilarts-Claire-Monitor-04-Computer-Apple_QMwBya8.512.png HTTP/1.1" 200 55610
+INFO 2025-05-30 02:39:44,079 autoreload 25316 14276 C:\Users\hp\Desktop\car rentel app\Auto_Qira\urls.py changed, reloading.
+INFO 2025-05-30 02:39:47,123 autoreload 17424 10020 Watching for file changes with StatReloader
+INFO 2025-05-30 02:40:20,308 basehttp 17424 7636 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-30 02:40:20,826 basehttp 17424 7636 "GET /?format=openapi HTTP/1.1" 200 21291
+INFO 2025-05-30 02:41:50,721 autoreload 17424 10020 C:\Users\hp\Desktop\car rentel app\generic\views.py changed, reloading.
+INFO 2025-05-30 02:41:53,671 autoreload 18968 19908 Watching for file changes with StatReloader
+INFO 2025-05-30 02:42:06,586 autoreload 18968 19908 C:\Users\hp\Desktop\car rentel app\generic\views.py changed, reloading.
+INFO 2025-05-30 02:42:08,986 autoreload 24968 22480 Watching for file changes with StatReloader
+INFO 2025-05-30 02:42:20,728 autoreload 24968 22480 C:\Users\hp\Desktop\car rentel app\generic\views.py changed, reloading.
+INFO 2025-05-30 02:42:23,036 autoreload 12956 20056 Watching for file changes with StatReloader
+INFO 2025-05-30 02:42:45,611 autoreload 12956 20056 C:\Users\hp\Desktop\car rentel app\generic\views.py changed, reloading.
+INFO 2025-05-30 02:42:47,638 autoreload 13068 24584 Watching for file changes with StatReloader
+INFO 2025-05-30 02:42:53,690 basehttp 13068 4476 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-30 02:42:54,365 basehttp 13068 4476 "GET /?format=openapi HTTP/1.1" 200 21310
+WARNING 2025-05-30 02:43:04,250 log 13068 4476 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:43:04,251 basehttp 13068 4476 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+WARNING 2025-05-30 02:46:18,763 log 13068 4476 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:46:18,763 basehttp 13068 4476 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 58
+WARNING 2025-05-30 02:48:35,267 log 13068 21136 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:48:35,267 basehttp 13068 21136 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+WARNING 2025-05-30 02:48:42,272 log 13068 21136 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:48:42,272 basehttp 13068 21136 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+WARNING 2025-05-30 02:48:59,131 log 13068 21136 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:48:59,134 basehttp 13068 21136 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+INFO 2025-05-30 02:49:27,004 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:49:27,411 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:49:27,411 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:49:29,322 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:49:29,326 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:49:29,326 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:49:44,238 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:49:44,245 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:49:44,248 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+WARNING 2025-05-30 02:50:29,163 log 13068 21136 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:50:29,170 basehttp 13068 21136 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+INFO 2025-05-30 02:50:37,782 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:50:37,790 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:50:37,790 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:50:39,319 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:50:39,328 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:50:39,330 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:51:37,008 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:51:37,016 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:51:37,016 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+WARNING 2025-05-30 02:53:47,150 log 13068 11892 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:53:47,151 basehttp 13068 11892 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+INFO 2025-05-30 02:54:37,047 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:54:37,055 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:54:37,055 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+WARNING 2025-05-30 02:54:39,819 log 13068 21136 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 02:54:39,822 basehttp 13068 21136 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+INFO 2025-05-30 02:54:43,987 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:54:43,996 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:54:43,996 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:54:45,773 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:54:45,777 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:54:45,777 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:54:46,654 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:54:46,664 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:54:46,666 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 02:54:56,013 basehttp 13068 21136 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 02:54:56,020 log 13068 21136 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:54:56,023 basehttp 13068 21136 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+WARNING 2025-05-30 02:57:30,670 log 13068 17568 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 02:57:30,674 basehttp 13068 17568 "GET /api/admin/privacy-policy/ HTTP/1.1" 401 8657
+INFO 2025-05-30 02:57:31,526 basehttp 13068 18884 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2025-05-30 02:57:31,535 basehttp 13068 17568 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2025-05-30 02:57:31,555 basehttp 13068 14048 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2025-05-30 02:57:31,572 basehttp 13068 24740 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2025-05-30 02:57:31,597 basehttp 13068 18884 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2025-05-30 02:57:31,624 basehttp 13068 24740 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-05-30 02:57:31,629 basehttp 13068 24700 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2025-05-30 02:57:31,641 basehttp 13068 24740 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2025-05-30 02:57:31,644 basehttp 13068 18884 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2025-05-30 02:57:31,660 basehttp 13068 14048 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2025-05-30 02:57:31,676 basehttp 13068 17568 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2025-05-30 02:57:31,739 basehttp 13068 18248 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+WARNING 2025-05-30 02:57:31,945 log 13068 18248 Not Found: /favicon.ico
+WARNING 2025-05-30 02:57:31,951 basehttp 13068 18248 "GET /favicon.ico HTTP/1.1" 404 3137
+INFO 2025-05-30 03:02:27,076 basehttp 13068 9332 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 03:02:27,084 log 13068 9332 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 03:02:27,086 basehttp 13068 9332 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 03:02:35,029 basehttp 13068 9332 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 03:02:35,038 log 13068 9332 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 03:02:35,038 basehttp 13068 9332 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+WARNING 2025-05-30 03:03:03,237 log 13068 9332 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 03:03:03,239 basehttp 13068 9332 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+INFO 2025-05-30 03:03:08,841 basehttp 13068 9332 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 03:03:08,848 log 13068 9332 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 03:03:08,848 basehttp 13068 9332 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+INFO 2025-05-30 03:03:17,350 basehttp 13068 9332 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+WARNING 2025-05-30 03:03:17,350 log 13068 9332 Unauthorized: /api/admin/privacy-policy/
+WARNING 2025-05-30 03:03:17,350 basehttp 13068 9332 "POST /api/admin/privacy-policy/ HTTP/1.1" 401 51
+WARNING 2025-05-30 03:05:12,832 log 13068 9332 Not Found: /api/privacy-policy/
+WARNING 2025-05-30 03:05:12,832 basehttp 13068 9332 "GET /api/privacy-policy/ HTTP/1.1" 404 66
+INFO 2025-05-30 03:05:35,280 basehttp 13068 9332 "OPTIONS /api/admin/privacy-policy/ HTTP/1.1" 200 0
+INFO 2025-05-30 03:05:35,308 basehttp 13068 9332 "POST /api/admin/privacy-policy/ HTTP/1.1" 200 119
+INFO 2025-05-30 03:06:02,997 basehttp 13068 9332 "GET /api/privacy-policy/ HTTP/1.1" 200 134
+INFO 2025-05-30 03:15:31,216 basehttp 13068 25476 "GET /api/privacy-policy/ HTTP/1.1" 200 134
+INFO 2025-05-30 03:31:01,707 autoreload 13068 24584 C:\Users\hp\Desktop\car rentel app\generic\models.py changed, reloading.
+INFO 2025-05-30 03:31:05,436 autoreload 25104 18468 Watching for file changes with StatReloader
+INFO 2025-05-30 03:31:39,454 autoreload 4836 9616 Watching for file changes with StatReloader
+INFO 2025-05-30 03:32:41,247 autoreload 4836 9616 C:\Users\hp\Desktop\car rentel app\generic\serializers.py changed, reloading.
+INFO 2025-05-30 03:32:44,069 autoreload 16836 23848 Watching for file changes with StatReloader
+INFO 2025-05-30 03:34:22,461 autoreload 16836 23848 C:\Users\hp\Desktop\car rentel app\generic\views.py changed, reloading.
+INFO 2025-05-30 03:34:24,402 autoreload 24624 22788 Watching for file changes with StatReloader
+INFO 2025-05-30 03:34:57,636 autoreload 24624 22788 C:\Users\hp\Desktop\car rentel app\generic\views.py changed, reloading.
+INFO 2025-05-30 03:35:01,380 autoreload 15244 19624 Watching for file changes with StatReloader
+INFO 2025-05-30 03:35:27,698 basehttp 15244 4352 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-30 03:35:28,258 basehttp 15244 4352 "GET /?format=openapi HTTP/1.1" 200 21310
+INFO 2025-05-30 03:35:57,349 autoreload 15244 19624 C:\Users\hp\Desktop\car rentel app\generic\urls.py changed, reloading.
+INFO 2025-05-30 03:35:59,383 autoreload 5820 12464 Watching for file changes with StatReloader
+INFO 2025-05-30 03:37:50,110 autoreload 5820 12464 C:\Users\hp\Desktop\car rentel app\generic\urls.py changed, reloading.
+INFO 2025-05-30 03:37:52,687 autoreload 7708 14548 Watching for file changes with StatReloader
+INFO 2025-05-30 03:37:55,982 basehttp 7708 23760 "GET / HTTP/1.1" 200 1633
+INFO 2025-05-30 03:37:56,503 basehttp 7708 23760 "GET /?format=openapi HTTP/1.1" 200 21972
+INFO 2025-05-30 03:42:51,816 basehttp 7708 23760 "GET /admin/users/user/ HTTP/1.1" 302 0
+INFO 2025-05-30 03:42:51,953 basehttp 7708 23760 "GET /admin/login/?next=/admin/users/user/ HTTP/1.1" 200 3090
